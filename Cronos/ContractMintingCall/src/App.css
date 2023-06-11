@@ -1,0 +1,55 @@
+/* App.css */
+
+.app {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.app-header {
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.app-wrapper {
+  margin: 20px 0;
+}
+
+.app-buttons__login,
+.app-buttons__logout {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.app-details {
+  margin-bottom: 20px;
+}
+
+.app-account,
+.app-balance,
+.app-connectionid {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.app-account span,
+.app-balance span,
+.app-connectionid span {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.cronosContract {
+  margin-top: 20px;
+}
+
+/* Additional styling for token information */
+h5 {
+  margin-top: 10px;
+}

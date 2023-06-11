@@ -1,0 +1,16 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Context",
+  "sourceName": "contracts/aura.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220d7a7fdb05f32ba9ecec0e727c40aa10f4fb2cbb0dc3b54e5a37abf756601966b64736f6c63430008120033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220d7a7fdb05f32ba9ecec0e727c40aa10f4fb2cbb0dc3b54e5a37abf756601966b64736f6c63430008120033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Admin\\Desktop\\Cronos\\Contract\\contracts\\aura.sol": {
+      "lastModificationDate": 1685703482327,
+      "contentHash": "20d9a8072b911eaf8ae04ad9b75229e8",
+      "sourceName": "contracts/aura.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.18"
+      ],
+      "artifacts": [
+        "AURA",
+        "Address",
+        "Context",
+        "IERC20",
+        "Ownable",
+        "SafeMath"
+      ]
+    }
+  }
+}
